@@ -9,8 +9,6 @@ Original file is located at
 wine prediction deployment
 """
 
-pip install streamlit
-
 import numpy as np
 import joblib
 import streamlit as st
