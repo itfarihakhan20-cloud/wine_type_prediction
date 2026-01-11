@@ -44,7 +44,7 @@ if st.button("Predict"):
       residual_sugar,
       chlorides,
       free_sulfur_dioxide,
-      total_sulfur_dioxide
+      total_sulfur_dioxide,
       density,
       pH,
       sulphates,
